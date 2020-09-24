@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Mary Wood
-  avatar: bio-photo.jpg
+  avatar: photo-of-me.jpg
   bio: "Computational biologist studying the genomics of cancer immunotherapy through software development and data analysis"
   email: mary.a.wood.91@gmail.com
   # Do not include the @ symbol in your Twitter username
