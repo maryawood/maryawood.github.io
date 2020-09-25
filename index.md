@@ -15,5 +15,5 @@ To learn more about my projects, do not hesitate to reach out to me or explore m
 
 * [`neoepiscope`](https://github.com/pdxgx/neoepiscope): flexible, performant neoepitope prediction software accounting for variant phasing
 * Identification of [genomic predictors](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00729-2) of response to immunotherapy treatment for cancer
-* Genomic analyses for a [clinical trial](https://clinicaltrials.gov/ct2/show/NCT02312557) assessing the efficacy pembrolizumab/enzalutamide combination treatment for metastatic, castration-resistant prostate cancer
+* Genomic analyses for a [clinical trial](https://clinicaltrials.gov/ct2/show/NCT02312557) assessing the efficacy of pembrolizumab/enzalutamide combination treatment for metastatic, castration-resistant prostate cancer
 * Identification of tumor-specific antigens in a castration-resistant prostate tumor mouse cell line
