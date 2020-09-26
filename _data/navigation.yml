@@ -1,6 +1,9 @@
 # Site navigation links
 - title: Home
   url: /
+ 
+- title: Publications
+  url: /publications/
 
 - title: Posters
   url: /posters/
