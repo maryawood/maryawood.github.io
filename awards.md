@@ -1,4 +1,7 @@
-# Awards
+---
+layout: page
+excerpt: "Awards"
+---
 
 ### Knight Cancer Institute SciOps Neighborhood Collaboration Grant
 
