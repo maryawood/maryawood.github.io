@@ -3,9 +3,7 @@ layout: page
 excerpt: "Awards"
 ---
 
-# Awards
-
-### Knight Cancer Institute SciOps Neighborhood Collaboration Grant
+__Knight Cancer Institute SciOps Neighborhood Collaboration Grant__
 
 _January 2020_
 
@@ -17,7 +15,7 @@ Along with Fanny Polesso, awarded funding for our Knight SciOps Neighborhood Col
 
 <sup>Photo from the Knight SciOps Grant award announcement.</sup>
 
-### Program in Quantitative Genetics 13th Annual Conference Stellar Abstract Award
+__Program in Quantitative Genetics 13th Annual Conference Stellar Abstract Award__
 
 _November 2019_
 
@@ -30,7 +28,7 @@ One of seven recipients of a Stellar Abstract Award at the [conference](https://
 <sup>My poster from the conference.</sup>
 
 
-### [CREEDS](https://icahn.mssm.edu/education/non-degree/creeds) Spring School for RNA-seq Sequence Analysis
+__[CREEDS](https://icahn.mssm.edu/education/non-degree/creeds) Spring School for RNA-seq Sequence Analysis__
 
 _May 2017_
 
@@ -38,7 +36,7 @@ _Icahn School of Medicine at Mt. Sinai, New York, NY_
 
 Accepted among the top third of applicants to an NIH-funded, week-long genomics workshop for graduate students and early career faculty. Engaged in lectures and hands-on exercises to improve skills in transcript assembly, differential expression/coexpression analysis, and gene set enrichment analysis.
 
-### Golden Key International Honor Society
+__Golden Key International Honor Society__
 
 _October 2012_
 
@@ -46,7 +44,7 @@ _University of Oregon Chapter, Eugene, OR_
 
 Invited member of the [Golden Key International Honor Society](https://www.goldenkey.org/). Students among the top 15% of their class based on grade point average are invited to accept a lifetime membership into the society.
 
-### University of Oregon Alumni Association Presidential Scholarship
+__University of Oregon Alumni Association Presidential Scholarship__
 
 _March 2010_
 
