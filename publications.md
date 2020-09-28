@@ -1,3 +1,8 @@
+---
+layout: page
+excerpt: "Publications"
+---
+
 Graff, J.N., Alumkal, J.J., Thomas, G.V. Thompson, R.F., Moran, A.E., **Wood, M.A.**, Drake, C.G., Slottke, R.E., Beer, T.M. (2020). [A Phase II, Single-Arm Study of Pembrolizumab with Enzalutamide in Men with Metastatic Castration Resistant Prostate Cancer Progressing on Enzalutamide Alone.](https://jitc.bmj.com/content/8/2/e000642) _Journal for ImmunoTherapy of Cancer_. 8:e000642.
 
 Nguyen, A., David, J.K., Maden S.K., **Wood M.A.**, Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
