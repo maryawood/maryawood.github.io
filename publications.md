@@ -3,7 +3,11 @@ layout: page
 excerpt: "Publications"
 ---
 
-Graff, J.N., Alumkal, J.J., Thomas, G.V. Thompson, R.F., Moran, A.E., **Wood, M.A.**, Drake, C.G., Slottke, R.E., Beer, T.M. (2020). [A Phase II, Single-Arm Study of Pembrolizumab with Enzalutamide in Men with Metastatic Castration Resistant Prostate Cancer Progressing on Enzalutamide Alone.](https://jitc.bmj.com/content/8/2/e000642) _Journal for ImmunoTherapy of Cancer_. 8:e000642.
+Weeder, B.R., **Wood, M.A.**, Li, E., Nellore, A., Thompson, R.F. (2021) [Pepsickle rapidly and accurately predicts proteasomal cleavage sites for improved neoantigen identification](https://www.biorxiv.org/content/10.1101/2021.05.14.444244v1.abstract). Preprint.
+
+Fuiten, A.M., Fankhauser, R.G., Smit, D.J., Stark, M.S., Enright, T.F., **Wood, M.A.**, DePatie, N.A., Pivik, K., Sturm, R.A., Berry, E.G., Kulkarni, R.P. (2021). [Genetic analysis of multiple primary melanomas arising within the boundaries of congenital nevi depigmentosa](https://onlinelibrary.wiley.com/doi/abs/10.1111/pcmr.12979). _Pigment Cell & Melanoma Research_.
+
+Graff, J.N., Alumkal, J.J., Thomas, G.V., Thompson, R.F., Moran, A.E., **Wood, M.A.**, Drake, C.G., Slottke, R.E., Beer, T.M. (2020). [A Phase II, Single-Arm Study of Pembrolizumab with Enzalutamide in Men with Metastatic Castration Resistant Prostate Cancer Progressing on Enzalutamide Alone.](https://jitc.bmj.com/content/8/2/e000642) _Journal for ImmunoTherapy of Cancer_. 8:e000642.
 
 Nguyen, A., David, J.K., Maden S.K., **Wood M.A.**, Weeder, B.R., Nellore, A., Thompson, R.F. (2020). [Human leukocyte antigen susceptibility map for SARS-CoV-2.](https://jvi.asm.org/content/94/13/e00510-20) _Journal of Virology_. JVI.00510-20.
 
