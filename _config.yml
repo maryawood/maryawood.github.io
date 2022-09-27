@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Mary Wood
   avatar: photo-of-me.jpg
-  bio: "Data scientist predicting structural variants from Hi-C sequencing data"
+  bio: "Data scientist predicting structural variants from proximity ligation sequencing data"
   email: mary.a.wood.91@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: mary_a_wood
