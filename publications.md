@@ -3,7 +3,7 @@ layout: page
 excerpt: "Publications"
 ---
 
-David, J.K., Maden, S.K., **Wood, M.A.**, Thompson, R.F., Nellore, A. (2022). [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://www.biorxiv.org/content/10.1101/2022.03.11.484016v1.abstract). Preprint.
+David, J.K., Maden, S.K., **Wood, M.A.**, Thompson, R.F., Nellore, A. (2022). [Retained introns in long RNA-seq reads are not reliably detected in sample-matched short reads](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02789-6). _Genome Biology_. _23_, 240.
 
 Guan, X., Polesso, F., Wang, C., Sehrawat, A., Hawkins, R.M., Murray, S.E., Thomas, G., Caruso, B., Thompson, R.F., **Wood, M.A.**, Hipfinger, C., Hammond, S.A., Graff, J.N., Xia, Z., Moran, A.E. (2022). [Androgen receptor activity in T cells limits checkpoint blockade efficacy](https://www.nature.com/articles/s41586-022-04522-6). _Nature_. _606_, 791-796.
 
