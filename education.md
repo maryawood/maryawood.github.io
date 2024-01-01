@@ -3,21 +3,19 @@ layout: page
 excerpt: "Education"
 ---
 
-**Master of Science in Biology**
-
-**Bioinformatics and Genomics Master’s Program**
+**Master of Science in Biology, Bioinformatics and Genomics Master’s Program**
 
 _University of Oregon, January 2015 – September 2017_
-•	Completed an additional 1.5 years of coursework in a traditional biology master's program, conducting graduate research in evolutionary biology, prior to transitioning to the Bioinformatics and Genomics Master’s Program for this degree
-•	Applied skills from program coursework and gained cancer research experience in an internship at Oregon Health and Science University
+-	Completed an additional 1.5 years of coursework in a traditional biology master's program, conducting graduate research in evolutionary biology, prior to transitioning to the Bioinformatics and Genomics Master’s Program for this degree
+-	Applied skills from program coursework and gained cancer research experience in an internship at Oregon Health and Science University
 
 
 **Bachelor of Science in Biology**
 
 _University of Oregon, September 2010 – December 2014_
-•	Emphasis in Molecular, Cellular, and Developmental Biology; minor in Chemistry
-•	Graduated Magna Cum Laude with departmental honors
-•	Completed coursework in biochemistry, genetics, evolution, and statistics
+-	Emphasis in Molecular, Cellular, and Developmental Biology; minor in Chemistry
+-	Graduated Magna Cum Laude with departmental honors
+-	Completed coursework in biochemistry, genetics, evolution, and statistics
 
 ## Additional Training
 
