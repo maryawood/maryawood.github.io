@@ -30,14 +30,6 @@ One of seven recipients of a Stellar Abstract Award at the [conference](https://
 
 __[CREEDS](https://icahn.mssm.edu/education/non-degree/creeds) Spring School for RNA-seq Sequence Analysis__
 
-_May 2017_
-
-_Icahn School of Medicine at Mt. Sinai, New York, NY_
-
-Accepted among the top third of applicants to an NIH-funded, week-long genomics workshop for graduate students and early career faculty. Engaged in lectures and hands-on exercises to improve skills in transcript assembly, differential expression/coexpression analysis, and gene set enrichment analysis.
-
-__Golden Key International Honor Society__
-
 _October 2012_
 
 _University of Oregon Chapter, Eugene, OR_
