@@ -1,7 +1,13 @@
 # Site navigation links
 - title: Home
   url: /
- 
+
+- title: Experience
+  url: /experience/
+
+- title: Education
+  url: /education/
+
 - title: Publications
   url: /publications/
 
@@ -11,7 +17,7 @@
 - title: Awards
   url: /awards/
   
-- title: Outreach
+- title: Outreach and Volunteering
   url: /outreach/
 
 #- title: Presentations
