@@ -7,27 +7,27 @@ excerpt: "Education"
 
 _University of Oregon, January 2015 – September 2017_
 -	Completed an additional 1.5 years of coursework in a traditional biology master's program, conducting graduate research in evolutionary biology, prior to transitioning to the Bioinformatics and Genomics Master’s Program for this degree
--	Applied skills from program coursework and gained cancer research experience in an internship at Oregon Health and Science University
+-	Completed an internship at Oregon Health and Science University, gaining practical experience in cancer research and genomics
 
 
 **Bachelor of Science in Biology**
 
 _University of Oregon, September 2010 – December 2014_
+- Graduated Magna Cum Laude with departmental honors
 -	Emphasis in Molecular, Cellular, and Developmental Biology; minor in Chemistry
--	Graduated Magna Cum Laude with departmental honors
 -	Completed coursework in biochemistry, genetics, evolution, and statistics
 
-## Additional Training
+### Additional Training
 
 **GAN specialization**
 
-_DeepLearning.AI, via Coursera, October 2022-December 2022_
+_DeepLearning.AI via Coursera, October 2022-December 2022_
 
 Undertook professional development training to learn about General Adversarial Networks. Coursework included lectures and assignments on building and improving generative models in PyTorch.
 
 **Deep Learning Specialization**
 
-_DeepLearning.AI, via Coursera, December 2020-March 2021_
+_DeepLearning.AI via Coursera, December 2020-March 2021_
 
 Pursued additional training to expand my deep learning knowledge and skills. Coursework included lectures and assignments on structuring and optimizing standard, convolutional, and recurrent neural networks using Python.
 
@@ -41,4 +41,4 @@ Sought post-graduate training in machine learning to gain technical skills. Trai
 
 _Icahn School of Medicine at Mt. Sinai, May 2017_
 
-Accepted among the top third of applicants to an NIH-funded, week-long genomics workshop for graduate students and early career faculty. Engaged in lectures and hands-on exercises to improve skills in transcript assembly, differential expression/co-expression analysis, and gene set enrichment analysis.
+Accepted among the top third of applicants to an NIH-funded, week-long genomics workshop for graduate students and early career faculty. Engaged in lectures and hands-on exercises to improve skills in transcript assembly, differential expression/co-expression analysis, and gene set enrichment analysis using R.
