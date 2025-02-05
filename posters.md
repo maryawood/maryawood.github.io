@@ -6,7 +6,7 @@ My poster from the 26<sup>th</sup> annual Intelligent Systems for Molecular Biol
 
 ![](images/ISMB-poster.png)
 
-My poster from the 2<sup>nd</sup> annual Genomics in Action meeting (Nov. 2016) at University of Oregon in Eugene, OR. I presented with my partner work we did as part of the Bioinformatics and Genomics Master's Program; we analyzed data from Jacob Corn's lab at Stanford University to put our new bioinformatics skills into practice.
+My poster from the 2<sup>nd</sup> annual Genomics in Action meeting (Nov. 2016) at University of Oregon in Eugene, OR. My partner and I presented work we did as part of the Bioinformatics and Genomics Master's Program; we analyzed CRISPR data from Jacob Corn's lab at Stanford University to put our new bioinformatics skills into practice.
 
 ![](images/CRISPR-poster.png)
 
