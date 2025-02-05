@@ -26,7 +26,7 @@ One of seven recipients of a Stellar Abstract Award at the [conference](https://
 <sup>My poster from the conference.</sup>
 
 
-__[CREEDS](https://icahn.mssm.edu/education/non-degree/creeds) Spring School for RNA-seq Sequence Analysis__
+__Golden Key International Honor Society__
 
 _October 2012_\
 _University of Oregon Chapter, Eugene, OR_
