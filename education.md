@@ -3,6 +3,8 @@ layout: page
 excerpt: "Education"
 ---
 
+#### Degrees
+
 **Master of Science in Biology, Bioinformatics and Genomics Master’s Program**
 
 _University of Oregon, January 2015 – September 2017_
@@ -17,7 +19,7 @@ _University of Oregon, September 2010 – December 2014_
 -	Emphasis in Molecular, Cellular, and Developmental Biology; minor in Chemistry
 -	Completed coursework in biochemistry, genetics, evolution, and statistics
 
-### Additional Training
+#### Additional Training
 
 **GAN specialization**
 
