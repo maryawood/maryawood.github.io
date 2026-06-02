@@ -15,6 +15,7 @@ To learn more, do not hesitate to reach out to me or explore my work through the
 
 ## Past projects
 
+* Development of data visualization, report generation, and administrative functionality for the [Benthic Analysis Platform](https://analysis.benthic.bio/)
 * [`neoepiscope`](https://github.com/pdxgx/neoepiscope): flexible, performant neoepitope prediction software accounting for variant phasing
 * Identification of [genomic predictors](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00729-2) of response to immunotherapy treatment for cancer
 * Prediction of [proteasomal cleavage sites](https://academic.oup.com/bioinformatics/article/37/21/3723/6363787) for improved neoantigen prediction
