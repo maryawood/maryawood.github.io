@@ -8,7 +8,7 @@ __Knight Cancer Institute SciOps Neighborhood Collaboration Grant__
 _January 2020_\
 _Oregon Health and Science University, Portland, OR_
 
-Along with Fanny Polesso, awarded funding for our Knight SciOps Neighborhood Collaboration grant, “Identification of tumor-specific mutant antigens in a castration resistant prostate tumor mouse cell line”. The grant program is designed to foster collaboration between non-faculty teams working in different research groups in the Knight Cancer Research Building, and was awarded to two teams in 2020.
+Along with Fanny Polesso, awarded funding for our Knight SciOps Neighborhood Collaboration grant, “Identification of tumor-specific mutant antigens in a castration resistant prostate tumor mouse cell line”. The grant program was designed to foster collaboration between non-faculty teams working in different research groups in the Knight Cancer Research Building, and was awarded to two teams in 2020.
 
 ![](/images/SciOps-picture.png)
 
