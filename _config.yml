@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Mary A. Wood, Senior Data Scientist
+title: Mary A. Wood, Computational Biologist
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,10 +8,10 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Mary Wood
   avatar: headshot_sept_2022.jpeg
-  bio: "Data scientist with a passion for health research"
+  bio: "Computational biologist accelerating precision health research"
   email: mary.a.wood.91@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: mary_a_wood
+  twitter: #username
   linkedin: maryawood91
   github: maryawood
   orcid: 0000-0003-4011-3811
