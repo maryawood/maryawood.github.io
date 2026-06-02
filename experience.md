@@ -56,6 +56,7 @@ _Graduate Teaching Fellow, Department of Biology, January 2015 – December 2016
 
 _Undergraduate Research Assistant, January 2012 – December 2014_
 
+- Conducted independent and collaborative research on the evolution of blood feeding in the pitcher plant mosquito; wrote and publicly defended an honors thesis
 -	Consulted with Principal Investigators and graduate students to maintain essential operations of the laboratory
 -	Mentored new employees on laboratory regulations and organized sessions to work on collaborative projects
 -	Presented at several laboratory meetings each year on scientific topics of interest, such as vector-borne diseases
